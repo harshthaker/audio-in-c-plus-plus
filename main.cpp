@@ -1,16 +1,12 @@
-//
 //  main.cpp
-//  Akshar
-//
-//  Created by CoRo on 02/04/17.
-//  Copyright © 2017 CoRo. All rights reserved.
-//
+//  Created by Harsh Thaker on 02/04/17.
+
 
 #include <iostream>
 #include <SDL2/SDL.h>
 
-#define FILE_PATH_BEE "/Users/hardikthaker/Desktop/bee.wav"
-#define FILE_PATH_BLOP "/Users/hardikthaker/Desktop/iRemote/iRemote/blop.wav"
+#define FILE_PATH_BEE "/Users/Desktop/bee.wav"
+#define FILE_PATH_BLOP "/Users/Desktop/blop.wav"
 
 struct AudioData{
     
